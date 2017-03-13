@@ -1,12 +1,15 @@
-ReadMe2
+ReadMe
 ------------------------------------------------------------------------
 Sam Cacela
 Villanova University
 ------------------------------------------------------------------------
 
-The Art.java project was one of my favorites from my Algorithms and Data
+Paints an image of Super Mario in the snowy mountains of the Mushroom Kingdom.
+
+This Applet project was one of my favorites from my Algorithms and Data
 Structures course because it was a fun way for me to exercise my creativity
 and artistry. Below is a copy of my write-up report for this project.
+
 ------------------------------------------------------------------------
 
 Much of the work for this project was accomplished over the weekend of
