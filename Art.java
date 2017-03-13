@@ -1,7 +1,7 @@
 //********************************************************************
-//  Art.java       Author: Sam Cacela  Started: 2/13/15
-//                                      Continued: 2/14, 2/15
-//                                      Finished: 2/23/15
+//  Art.java         Author: Sam Cacela         Started: 2/13/15
+//                                              Continued: 2/14, 2/15
+//                                              Finished: 2/23/15
 //
 //  Paints a picture of Mario chilling in a snowy, mountainous
 //  Sky World.
