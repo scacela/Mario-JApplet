@@ -62,7 +62,7 @@ were called for, I went back to see how I could edit the image using
 these new techniques without disturbing the sensation the picture
 already evoked. After learning how to code for these features, I would
 like to acknowledge and thank Dr. Papalaskari for the examples she provided
-in the ÒClasses and ObjectsÓ packet, which served helpfully as templates.
+in the 'Classes and Objects' packet, which served helpfully as templates.
 
 I customized the wave function in this project to make it appear to be a
 far, purple mountain range that swerved across the horizon. For the random
